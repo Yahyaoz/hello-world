@@ -2,4 +2,4 @@
 trial project for learning git
 
 
-booring!! I shared my ideas but .... whatever
+Hello this trial project will be interesting and we will see how it will end
